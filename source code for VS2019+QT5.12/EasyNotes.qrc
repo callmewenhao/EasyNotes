@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/EasyNotes"/>
+    <qresource prefix="/">
+        <file>images/clear.png</file>
+        <file>images/save.png</file>
+        <file>images/icon.png</file>
+        <file>images/固定,图钉.png</file>
+        <file>images/解除固定,图钉.png</file>
+    </qresource>
+</RCC>
